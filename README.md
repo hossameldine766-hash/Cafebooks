@@ -16,7 +16,8 @@
 
 ## 📸 لقطات من البرنامج (Screenshots)
 ![واجهة الكاشير](app.ico)
-![Uploading Capture4.PNG…]()
+<img width="1920" height="1022" alt="Capture4" src="https://github.com/user-attachments/assets/70a03d83-7fa5-4136-812e-23d78eb5fa13" />
+
 
 ## ⚙️ كيفية التشغيل (How to Run)
 1. تثبيت المتطلبات:
