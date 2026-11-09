@@ -16,6 +16,7 @@
 
 ## 📸 لقطات من البرنامج (Screenshots)
 ![واجهة الكاشير](app.ico)
+![Uploading Capture4.PNG…]()
 
 ## ⚙️ كيفية التشغيل (How to Run)
 1. تثبيت المتطلبات:
