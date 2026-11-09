@@ -16,7 +16,7 @@
 
 ## 📸 لقطات من البرنامج (Screenshots)
 <div align="center">
-  <img src=" app.ico" alt="Coffee Logo" width="300">
+  <img src="app.ico" alt="Coffee Logo" width="300">
 </div>
 <img width="1920" height="1022" alt="Capture4" src="https://github.com/user-attachments/assets/70a03d83-7fa5-4136-812e-23d78eb5fa13" />
 
